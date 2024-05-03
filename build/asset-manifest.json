@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/se-frontend-cinema/static/css/main.47204eb1.css",
+    "main.js": "/se-frontend-cinema/static/js/main.1e82eeee.js",
+    "static/js/787.35c1861e.chunk.js": "/se-frontend-cinema/static/js/787.35c1861e.chunk.js",
+    "static/media/hungergames.png": "/se-frontend-cinema/static/media/hungergames.ef034a9c5d71b9e80111.png",
+    "static/media/napoleon.png": "/se-frontend-cinema/static/media/napoleon.23be708d94ea7c08cd48.png",
+    "static/media/wish.png": "/se-frontend-cinema/static/media/wish.fb2ff708fcab80fe092a.png",
+    "static/media/slick.svg": "/se-frontend-cinema/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/se-frontend-cinema/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/se-frontend-cinema/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/se-frontend-cinema/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/se-frontend-cinema/index.html",
+    "main.47204eb1.css.map": "/se-frontend-cinema/static/css/main.47204eb1.css.map",
+    "main.1e82eeee.js.map": "/se-frontend-cinema/static/js/main.1e82eeee.js.map",
+    "787.35c1861e.chunk.js.map": "/se-frontend-cinema/static/js/787.35c1861e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47204eb1.css",
+    "static/js/main.1e82eeee.js"
+  ]
+}

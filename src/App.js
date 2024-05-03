@@ -13,7 +13,7 @@ import { AddShow } from "./pages/add-show-page";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/se-frontend-cinema">
       <Routes>
         <Route path="/signup" element={<SignUp />} />
         <Route path="/login" element={<Login />} />
